@@ -1,0 +1,11 @@
+obj/Debug/net8.0/QuantumCrytography.csproj.AssemblyReference.cache
+*.cache
+*.txt
+*.dll
+*.pdb
+*.json
+*.targets
+*.editorconfig
+*.props
+*.BuildWithSkipAnalyzers
+*.Up2Date
